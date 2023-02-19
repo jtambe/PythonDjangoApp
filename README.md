@@ -11,7 +11,7 @@ To setup conda in vs code, use *ctrl+shift+p* and add following settings.json fi
 
 Open a new terminal and use `Select Python Interpreter`. choose conda interpreter and it will open up a command prompt with either `base` env or `DjangoEnv` env <br/>
 <div align="center">
-    <img src="/Screenshots/CondaInterpreterVSCode.jpg" width="400px"</img> 
+    <img src="/Screenshots/CondaInterpreterVSCode.jpg" width="800px"</img> 
 </div>
 This process is shown in this video: https://www.youtube.com/watch?v=J8jLHgw-bFQ
 <br/>
