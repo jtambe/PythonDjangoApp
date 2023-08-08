@@ -27,5 +27,4 @@ This process is shown in this video: https://www.youtube.com/watch?v=hfKAV6OYaKw
 run following command in your terminal <br/>
 *python .\DjangoWebsite\manage.py runserver*
 
-4.
 
